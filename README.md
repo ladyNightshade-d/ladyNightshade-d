@@ -36,6 +36,7 @@
 </p>
 
 ---
+
 <p align="center">
-  <img src="./assets/Screenshot 2026-02-03 112025.png" alt="LadyNightshade-d Art" width="450"/>
+  <img src="https://images.unsplash.com/photo-1502920917128-1aa500764ff0?auto=format&fit=crop&w=800&q=80" alt="Elegant Mysterious Art" width="450"/>
 </p>
