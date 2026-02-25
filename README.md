@@ -1,29 +1,21 @@
 # 🖤 Hey there, I’m ladyNightshade
 
 <p align="center">
- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=✨+Mystery+in+Code✨;💻+Turning+Ideas+into+Reality💻;🖤+Lover+of+Memes+and+Magic🖤;😎+Chaos+Connoisseur😎;🌙+NightOwl+Coder🌙;🎨+Crafting+Elegant+Designs🎨;🔥+Breaking+Limits+Everyday🔥&center=true&size=24" alt="Typing Animation">
-</p>
 </p>
 
 ---
 
 ## 🌟 About Me
-- 🔮 Wandering through the realms of **Web Development & Open Source magic**
-- 🌱 Currently brewing **React.js, Python & AI spells**
-- 🧩 Seeking quirky, fun, and brain-teasing collaborations
-- 💬 Chat with me about **tech, memes, or weird/random facts**
-- 😎 I laugh at my own jokes, embrace chaos, and occasionally dance like nobody’s watching 💃✨
-- 🖤 A little mysterious, a lot of fun, and always caffeinated ☕✨
+- 🔮 Wandering through the realms of **Web Development & Open Source magic**  
+- 🌱 Currently brewing **React.js, Python & AI spells**  
+- 🧩 Seeking quirky, fun, and brain-teasing collaborations  
+- 💬 Chat with me about **tech, memes, or weird/random facts**  
+- 😎 I laugh at my own jokes, embrace chaos, and occasionally dance like nobody’s watching 💃✨  
+- 🖤 A little mysterious, a lot of fun, and always caffeinated ☕✨  
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ladyNightshade-d&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
 ## 🎯 Skills & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -37,6 +29,13 @@
 
 ---
 
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1502920917128-1aa500764ff0?auto=format&fit=crop&w=800&q=80" alt="Elegant Mysterious Art" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ladyNightshade-d&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+
+---
+
+<p align="center">
+  <img src="./Screenshot 2026-02-03 112025.png" alt="LadyNightshade-d Art" width="450"/>
 </p>
