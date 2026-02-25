@@ -1,17 +1,18 @@
-# 👋 Hello there! I'm ladyNightshade-d
+# 🖤 Hey there, I’m ladyNightshade
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=✨+Full-stack+Explorer✨;💻+Coding+is+Life💻;🎨+Design+Lover🎨;😎+Occasional+Meme+Master😎&center=true&size=24" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=✨+Mystery+in+Code✨;💻+Turning+Ideas+into+Reality💻;🖤+Lover+of+Memes+and+Magic🖤;😎+Chaos+Connoisseur😎&center=true&size=24" alt="Typing Animation">
 </p>
 
 ---
 
 ## 🌟 About Me
-- 🔭 I’m currently exploring **Web Development & Open Source**
-- 🌱 I’m learning **React.js, Python & AI**
-- 👯 I’m looking to collaborate on fun projects
-- 💬 Ask me about **tech, memes, or random trivia**
-- 😄 Fun fact: I laugh at my own jokes 😂
+- 🔮 Wandering through the realms of **Web Development & Open Source magic**
+- 🌱 Currently brewing **React.js, Python & AI spells**
+- 🧩 Seeking quirky, fun, and brain-teasing collaborations
+- 💬 Chat with me about **tech, memes, or weird/random facts**
+- 😎 I laugh at my own jokes, embrace chaos, and occasionally dance like nobody’s watching 💃✨
+- 🖤 A little mysterious, a lot of fun, and always caffeinated ☕✨
 
 ---
 
@@ -35,9 +36,9 @@
 
 ## 📫 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/ladyNightshade-d/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/ladyNightshade-d"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ladyNightshade-d/)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ladyNightshade-d)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 </p>
 
 ---
