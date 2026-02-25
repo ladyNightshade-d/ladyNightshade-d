@@ -1,7 +1,9 @@
 # 🖤 Hey there, I’m ladyNightshade
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=✨+Mystery+in+Code✨;💻+Turning+Ideas+into+Reality💻;🖤+Lover+of+Memes+and+Magic🖤;😎+Chaos+Connoisseur😎&center=true&size=24" alt="Typing Animation">
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=✨+Mystery+in+Code✨;💻+Turning+Ideas+into+Reality💻;🖤+Lover+of+Memes+and+Magic🖤;😎+Chaos+Connoisseur😎;🌙+NightOwl+Coder🌙;🎨+Crafting+Elegant+Designs🎨;🔥+Breaking+Limits+Everyday🔥&center=true&size=24" alt="Typing Animation">
+</p>
 </p>
 
 ---
@@ -18,7 +20,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ladyNightshade-d&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ladyNightshade-d&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
@@ -36,5 +38,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=LadyNightshade-d+|+Elegant+&+Confident+|+Code+with+Style&center=true&size=28" alt="Elegant Typing Animation">
+  <img src="https://images.unsplash.com/photo-1503264116251-35a269479413?auto=format&fit=crop&w=800&q=80" alt="Elegant Mysterious Image" width="400"/>
 </p>
