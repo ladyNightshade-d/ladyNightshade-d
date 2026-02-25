@@ -29,13 +29,12 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ladyNightshade-d&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
 
 <p align="center">
-  <img src="./Screenshot 2026-02-03 112025.png" alt="LadyNightshade-d Art" width="450"/>
+  <img src="./Screenshot 2026-02-03 112025.png" 
+       alt="LadyNightshade-d Art" 
+       width="450" 
+       style="border-radius:15px; box-shadow: 0 10px 30px rgba(0,0,0,0.7); transform: scale(1.02); transition: transform 0.3s;" 
+       onmouseover="this.style.transform='scale(1.05)'" 
+       onmouseout="this.style.transform='scale(1.02)'"/>
 </p>
