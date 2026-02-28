@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="elegant.png"
+  <img src="hacker.png"
        alt="LadyNightshade-d Art"  
        style="border-radius:15px; box-shadow: 0 10px 30px rgba(0,0,0,0.7); height:300px; object-fit:cover; transform: scale(1.02); transition: transform 0.3s;"
        onmouseover="this.style.transform='scale(1.05)'" 
